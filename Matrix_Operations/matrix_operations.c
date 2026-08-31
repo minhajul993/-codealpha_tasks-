@@ -43,7 +43,6 @@ void transpose_matrix(int rows, int cols, int A[rows][cols], int result[cols][ro
 }
 
 int main() {
-    // Define dimensions
     int rows = 2, cols = 2;
     
     // Initialize matrices
